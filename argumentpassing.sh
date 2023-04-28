@@ -8,6 +8,6 @@ echo "the first parameter $1"
 echo "the second parameter $2"
 echo "the third parameter $3"
 echo "the four parameter $4"
-#End
+#End of the program
 
 
