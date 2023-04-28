@@ -12,5 +12,6 @@ then
 echo "you are ordinary user"
 else 
 echo "you are user not root"
+ech0 " new code"
 fi
 #End   
