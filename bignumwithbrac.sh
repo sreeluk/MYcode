@@ -13,4 +13,4 @@ then
  echo "$n3 is big"
  echo "program finish"
 fi
-#End
+#End of the program
