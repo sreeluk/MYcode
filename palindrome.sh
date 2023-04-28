@@ -8,7 +8,7 @@ reverse=`rev temp`
 echo $reverse
 if [ $input==$reverse ]
 then
- echo "is a palindrome"
+ echo "this is a palindrome"
 else
 echo "not a palindrome"
 fi
