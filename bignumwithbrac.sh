@@ -1,8 +1,8 @@
 #!/bin/bash
 #comparision of three members
-read -p "enter num1:" n1
-read -p "enter num2:" n2
-read -p "enter num3:" n3
+read -p "enter number 1:" n1
+read -p "enter number 2:" n2
+read -p "enter number 3:" n3
 if ((n1>n2)&&((n1>n3))
  echo "$n1 is big"
 elif ((n2>n3))
@@ -13,6 +13,3 @@ then
  echo "$n3 is big"
 fi
 #End
-
- 
-
