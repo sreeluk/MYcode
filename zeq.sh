@@ -6,6 +6,7 @@ echo $res
 if [ -z $name ] || [ $res -eq 0 ]
 then
  echo "user $name found in the system.could not create..existing"
+ echo " this is modification"
 else
  read -sp "enter the password" pass
  useradd $name
