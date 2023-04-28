@@ -11,5 +11,6 @@ then
 elif ((n3>n2))
 then
  echo "$n3 is big"
+ echo "program finish"
 fi
 #End
